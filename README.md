@@ -13,6 +13,8 @@ Questions and answers for the workshop attendees are in Python comments
 starting with the words QUESTION and ANSWER, respectively.
 Some parts of the original code are rewritten or deleted for simplicity.
 
+A test module can be found in functional\_utils.py.
+
 This code review was done by Jordan Moldow
 (<https://github.com/jmoldow> | <jmoldow@box.com> | <jmoldow@alum.mit.edu>).
 
